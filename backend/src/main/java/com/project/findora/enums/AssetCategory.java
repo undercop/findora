@@ -1,0 +1,12 @@
+package com.project.findora.enums;
+
+public enum AssetCategory {
+    STOCK,
+    MF_LARGE,
+    MF_MID,
+    MF_SMALL,
+    GOLD_ETF,
+    SILVER_ETF
+}
+
+
